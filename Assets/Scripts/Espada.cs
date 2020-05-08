@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Espada : Item
 {
@@ -9,4 +7,6 @@ public class Espada : Item
         nome = _nome;
         acumulavel = false;
     }
+
+
 }
